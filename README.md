@@ -1,5 +1,5 @@
 # FIBONACCI HEAPS 
-## This is a simple Fibonacci Heap DS implemented in Java
+### Fibonacci Heap DS in Java
 
-My name is **Uzair** and i'm the **Lizard King**.
+Made by **Uzair Hussain** for `Data Structures` course
 This is a simple Data Structure Term Project of Fibonacci Heaps in Java.
